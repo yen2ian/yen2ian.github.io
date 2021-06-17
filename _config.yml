@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "일상 캐비닛"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김이안"
