@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "기복 없이 좋아하는 노래"
+title: "오늘의 노래"
 categories: 일상
 ---
 
